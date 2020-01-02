@@ -4,12 +4,12 @@
 #  Clima
 
 ## Goal
+To build a real-time climate searching App, used JSON API to get real-time weather info.
 
-It’s time to take our app development skills to the next level. We’re going to introduce you to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet. If you’re dreaming of making that Twitter-powered stock trading app then you’re about add some serious tools to your toolbelt!
+## JSON API resource: 
+https://openweathermap.org/
 
-
-
-## functions to achieve
+## To Achieve
 
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
